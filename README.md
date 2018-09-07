@@ -6,13 +6,13 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Solution]https://garvitkhurana.github.io/HTML-CSS-and-Javascript-for-Web-Developers/mod2_solution/)
 
 ### Module 3
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module3_solution/)
+* [Solution]https://garvitkhurana.github.io/HTML-CSS-and-Javascript-for-Web-Developers/mod3_solution/)
 
 ### Module 4
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module4_solution/)
+* [Solution]https://garvitkhurana.github.io/HTML-CSS-and-Javascript-for-Web-Developers/mod4_solution/)
 
 ### Module 5
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module5_solution/)
+* [Solution]https://garvitkhurana.github.io/HTML-CSS-and-Javascript-for-Web-Developers/mod5_solution/)
